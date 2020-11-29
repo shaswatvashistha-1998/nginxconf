@@ -1,3 +1,5 @@
+testing 2.....
+
 # nginxconf
 # ihave modified the file so that it can go on jenkins.
 # the nginx serve cannot be directly hosted on jenkins.
